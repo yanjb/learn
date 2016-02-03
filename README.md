@@ -13,8 +13,8 @@
 | ------ |------|
 | [Microsoft Edge](https://dev.windows.com/zh-cn/microsoft-edge/) | MSEdge Dev 开发人员资源 |
 | [Mozilla](https://developer.mozilla.org/zh-CN/) | Mozilla 开发者网络（MDN）是一个完整的学习平台，你可以在这里深入学习网络技术以及能够驱动网络的软件 |
-| [Google Developers](https://developers.google.com/) | 探索 Google API 和 SDK，包括文档、示例代码和支持资源。 |
-| [Safari](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002051-CH1-SW1) | Developing Web Content for Safari |
+| [Google Developers](https://developers.google.com/) | 探索 Google API 和 SDK，包括文档、示例代码和支持资源 |
+| [Safari](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html) | Developing Web Content for Safari |
 
 ## Markdown
 
