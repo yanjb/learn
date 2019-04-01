@@ -1,7 +1,6 @@
 # web开发常用网站
 
 ## 综合
-
 | 网站 | 说明 |
 | ------ |------|
 | [W3C](https://www.w3.org/) | 万维网联盟（World Wide Web Consortium） |
@@ -17,10 +16,29 @@
 | [Safari](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/Introduction/Introduction.html) | Developing Web Content for Safari |
 
 ## ECMAScript
+| 网站 | 说明 |
+| ------ |------|
+| [ECMAScript 6 入门](http://es6.ruanyifeng.com/) | 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。 |
+| [ES2015+ cheatsheet](https://devhints.io/es6/) | A quick overview of new JavaScript features in ES2015, ES2016, ES2017, ES2018 and beyond. |
+| [ECMAScript Proposals](https://github.com/tc39/proposals/) | stage 0 Strawman, 1 Proposal, 2 Draft, 3 Candidate, 4 Finished. |
+
+## JavaScript 超集
+| 网站 | 说明 |
+| ------ |------|
+| [TypeScript](https://www.typescriptlang.org/) | TypeScript是一种由微软开发的自由和开源的编程语言。 |
+| [Dart](https://www.typescriptlang.org/) | Dart是一种适用于万维网的开放源代码编程语言，由Google主导开发。 |
 
 ## HTML5
+| 网站 | 说明 |
+| ------ |------|
+| [HTML 5.2](https://www.w3.org/TR/html5/) | W3C Recommendation, 14 December 2017 |
+| [HTML5 MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5) | Mozilla 开发者网络（MDN）平台的 HTML5 教程 |
 
 ## CSS3
+| 网站 | 说明 |
+| ------ |------|
+| [CSS-Tricks](https://css-tricks.com/) | W3C Recommendation, 14 December 2017 |
+| [CSS3 MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS3) | CSS3 是层叠样式表（Cascading Style Sheets）语言的最新版本，旨在扩展CSS2.1。|
 
 ## Node.js
 
@@ -40,12 +58,7 @@
 | [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki/zh-hans) | 最初为维基百科量身打造的自由wiki套件，用PHP语言写成 |
 | [Drupal](https://www.drupal.org/) | 使用PHP语言编写的开源内容管理框架（CMF），它由内容管理系统（CMS）和PHP开发框架（Framework）共同构成 |
 
-## Map
-
-## Chart
-
 ## Markdown
-
 | 网站 | 说明 |
 | ------ |------|
 | [Markdown](http://wowubuntu.com/markdown/) | 语法说明 (简体中文版) |
