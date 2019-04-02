@@ -51,6 +51,8 @@
 | [egg](https://eggjs.org/) | better enterprise frameworks and apps with Node.js & Koa |
 
 ## 前端工程化
+| 网站 | 说明 |
+| ------ |------|
 | [Rollup](https://gulpjs.com/) | Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. |
 | [Parcel](https://parceljs.org/) | 极速零配置Web应用打包工具 |
 | [Glup](https://gulpjs.com/) | Automate and enhance your workflow |
@@ -87,5 +89,5 @@
 ## 知名博客
 | 网站 | 说明 |
 | ------ |------|
-| [阮一峰](http://www.ruanyifeng.com/blog/) |  |
-| [张鑫旭](https://www.zhangxinxu.com/) |  |
+| [阮一峰](http://www.ruanyifeng.com/blog/) | 知识面涉及较广，周刊很有特色 |
+| [张鑫旭](https://www.zhangxinxu.com/) | 专注web前端偏前领域 |
